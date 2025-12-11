@@ -1,3 +1,3 @@
-1.3.0
+1.3.1
 https://drive.google.com/drive/folders/1fK2Y4pRwbwc6PPPaSIfJvQNpapdzjwPZ?usp=sharing
-Cập nhật full screen, icon.
+Fix lỗi mất kết nối màn chiếu phụ --> ngừng
